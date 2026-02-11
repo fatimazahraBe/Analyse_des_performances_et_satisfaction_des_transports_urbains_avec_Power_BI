@@ -39,7 +39,7 @@ Le projet combine une approche **Data Engineering + Business Intelligence**, ave
 
 Données déjà **agrégées mensuellement** (moyennes journalières).
 
-### 📍 Chicago
+### Chicago
 - Ridership Daily Boarding Totals (Bus & Rail) — Excel  
 - Ridership Daily by Route — RDF  
 
